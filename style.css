@@ -1,0 +1,17 @@
+.titulo{
+    text-align: center;
+    font-size: 50px;
+}
+
+.subtitulo{
+    text-align: center;
+    font-size: 30px;
+}
+
+.Personal-info{
+    margin:20px 200px;
+}
+
+.Login-info{
+    margin:20px 200px;
+}
